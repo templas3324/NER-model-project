@@ -1,10 +1,10 @@
 # 우신사 리뷰 개체명 인식 모델
-### Named-Entity recognition
+## Named-Entity recognition
 
 이 프로젝트는 K-Digital 빅데이터 과정 수강생 7명이 공동으로 작업한 프로젝트입니다.
 
 프로젝트 수행과정에 대한 더욱 세부적인 사항은 .ipynb 파일에서 확인하실 수 있습니다.
-***
+
 ### 팀원 소개
 >김준기 star956733@gmail.com
 >
