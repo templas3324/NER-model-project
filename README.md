@@ -7,15 +7,15 @@
 
 ### 팀원 소개
 >김준기 star956733@gmail.com
->
->엄성현 tjdgus510@gmail.com
->
->이경진 kungjin0119@naver.com
->
->이상화 templas332@naver.com
->
->임혜림 eim0801@naver.com
->
->조민지 study.minji.study@gmail.com
->
+
+엄성현 tjdgus510@gmail.com
+
+이경진 kungjin0119@naver.com
+
+이상화 templas332@naver.com
+
+임혜림 eim0801@naver.com
+
+조민지 study.minji.study@gmail.com
+
 >하은겸 foreverek4th@naver.com
