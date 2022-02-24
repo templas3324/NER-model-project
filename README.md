@@ -20,6 +20,9 @@
 >
 >하은겸 foreverek4th@naver.com
 
+### 프로젝트 기여부분
+형태소 분석기 체택, 태깅,하이퍼 파라미터 적용해보며 최적의 정확도 모델 검색
+
 ![슬라이드1](https://user-images.githubusercontent.com/83121895/150081129-8a46c978-6535-4775-b652-2f9f013832ab.GIF)
 
 ![슬라이드4](https://user-images.githubusercontent.com/83121895/150081177-942bbdc5-a847-4ee0-9130-7d6145a3e1cd.GIF)
